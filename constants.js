@@ -8,5 +8,5 @@ module.exports = {
   owner,
   repo,
   token,
-  workflow_id
+  workflow_id 
 }
