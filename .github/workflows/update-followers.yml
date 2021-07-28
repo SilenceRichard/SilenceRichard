@@ -5,10 +5,12 @@ on:
     branches: [master]
   pull_request:
     branches: [master]
-
+  schedule:
+    - cron: '0 30 * * *' #每30分钟执行一次
+  workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     env:
       PAT: ${{ secrets.RICHARD_GOD }}
       BRANCH: ${{ github.ref }}
