@@ -58,40 +58,8 @@ async function main() {
     const followersRes = await octokit.rest.users.listFollowersForAuthenticatedUser({});
     const { data: followers } = followersRes;
     const newContent = getNewContent(followers);
-    /**
-     * getSha
-     */
-    const repoContentRes = await octokit.rest.repos.getContent({
-      owner,
-      repo,
-      ref: 'dev_fg',
-      path: 'readme.md'
-    })
-    const { data: { sha, content } } = repoContentRes;
-    if (base64decode(content).length === newContent.length) {
-      console.log('has no diff😄')
-      return;
-    }
     fs.writeFileSync(`${__dirname}/readme.md`, newContent)
-    // console.log(workflowsRuns.data);
-    // await octokit.rest.repos
-    //   .createOrUpdateFileContents({
-    //     owner,
-    //     repo,
-    //     sha,
-    //     branch: "dev_fg",
-    //     path: "readme.md",
-    //     message: ":pencil2: update Readme",
-    //     content: newContent,
-    //     committer: {
-    //       name: "SilenceRichard",
-    //       email: "silencerichard@163.com",
-    //     },
-    //     author: {
-    //       name: "SilenceRichard",
-    //       email: "silencerichard@163.com",
-    //     },
-    //   })
+    
   } catch (err) {
     console.log(err)
     // main();
