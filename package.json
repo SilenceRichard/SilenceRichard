@@ -1,0 +1,25 @@
+{
+  "name": "silencerichard",
+  "version": "1.0.0",
+  "description": "> A ***FrontEnd*** ***Engineer***, Like doing some ***coooooooool*** things",
+  "main": "follower.js",
+  "dependencies": {
+    "nodejs-base64": "^2.0.0",
+    "octokit": "^1.1.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilenceRichard/SilenceRichard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilenceRichard/SilenceRichard/issues"
+  },
+  "homepage": "https://github.com/SilenceRichard/SilenceRichard#readme"
+}

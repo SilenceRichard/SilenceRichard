@@ -1,0 +1,54 @@
+name: UPDATE_FOLLOWERS
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PAT: ${{ secrets.RICHARD_GOD }}
+      BRANCH: ${{ github.ref }}
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
+      
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x, 15.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - name: Create local changes
+        run: |
+          npm install
+          node follower.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "silencerichard@163.com"
+          git config --local user.name "SilenceRichard"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m ":pencil2: Update followers"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.RICHARD_GOD }}
