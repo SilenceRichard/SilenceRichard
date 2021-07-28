@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: '0 30 * * *' #每30分钟执行一次
+    - cron: '0 22 * * *' #每22分钟执行一次
   workflow_dispatch:
 jobs:
   build:
