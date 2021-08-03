@@ -16,10 +16,10 @@ I am using *these Technology stack*
 *Contact Me* or *make Friends* on these sites
 
 <a href="https://silencerichard.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  <img height="20px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
 </a>
 <a href="https://twitter.com/silenceRichard1">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
 ---
