@@ -3,7 +3,6 @@
 > A ***FrontEnd*** ***Engineer***, Like doing some ***coooooooool*** things
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilenceRichard&count_private=true&theme=radical&include_all_commits=true)
-)
 
 I am using *these Technology stack*
 
