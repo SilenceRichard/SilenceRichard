@@ -1,3 +1,6 @@
+<p align="center"> 
+  Visitors<br><img src="https://profile-counter.glitch.me/SilenceRichard/count.svg" />
+</p>
 ## Hey! I am *R*ichard
 
 > A ***FrontEnd*** ***Engineer***, Like doing some ***coooooooool*** things
