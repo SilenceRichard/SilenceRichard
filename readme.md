@@ -88,6 +88,13 @@ I am using *these Technology stack*
               <br />
              <a href="https://github.com/lixiao555">lixiao555</a>
             </td>
+            <td align="center">
+              <a href="https://github.com/waiting-life">
+                <img src="https://avatars.githubusercontent.com/u/70050556?v=4" width="100px;" alt="waiting-life"/>
+                </a>
+              <br />
+             <a href="https://github.com/waiting-life">waiting-life</a>
+            </td>
               </tr>
 </table>
 <!--END_SECTION:top-followers-->
