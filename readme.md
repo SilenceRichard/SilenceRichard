@@ -45,6 +45,13 @@ I am using *these Technology stack*
              <a href="https://github.com/Antabot">Antabot</a>
             </td>
             <td align="center">
+              <a href="https://github.com/duyuanyuan1">
+                <img src="https://avatars.githubusercontent.com/u/37705416?v=4" width="100px;" alt="duyuanyuan1"/>
+                </a>
+              <br />
+             <a href="https://github.com/duyuanyuan1">duyuanyuan1</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/njusq">
                 <img src="https://avatars.githubusercontent.com/u/38641314?v=4" width="100px;" alt="njusq"/>
                 </a>
@@ -72,16 +79,16 @@ I am using *these Technology stack*
               <br />
              <a href="https://github.com/Ducky-Suki">Ducky-Suki</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/luweifengCtoa">
                 <img src="https://avatars.githubusercontent.com/u/57134639?v=4" width="100px;" alt="luweifengCtoa"/>
                 </a>
               <br />
              <a href="https://github.com/luweifengCtoa">luweifengCtoa</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/lixiao555">
                 <img src="https://avatars.githubusercontent.com/u/64315478?v=4" width="100px;" alt="lixiao555"/>
                 </a>
