@@ -1,108 +1,29 @@
-<p align="center"> 
-  Visitors<br><img src="https://profile-counter.glitch.me/SilenceRichard/count.svg" />
+<h1 align="center">Hi 👋, I'm Fangge Zhao</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
+
+- 🤖️ I’m experienced in **Front-end and Web3 Development**
+
+- 🌱 I’m currently learning **FrontEnd and Web3**
+
+- 🔭 I’m currently finding a **fully remote job**
+
+- ✈️ My Telegram [https://t.me/FunkyGe](https://t.me/FunkyGe)
+
+- 📫 My Email **silencerichard@163.com**
+
+- 💬 Ask me about **react and Dapp development**
+
+- 📄 Know about my experiences and works [https://fango-profile.vercel.app/](https://fango-profile.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zhrichard196220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zhrichard196220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/方格-赵-b08943327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="方格-赵-b08943327" height="30" width="40" /></a>
 </p>
 
-## Hey! I am *R*ichard
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-> A ***FrontEnd*** ***Engineer***, Like doing some ***coooooooool*** things
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silencerichard&show_icons=true&locale=en&layout=compact" alt="silencerichard" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilenceRichard&count_private=true&theme=radical&include_all_commits=true)
-
-I am using *these Technology stack*
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20px" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="20px" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-*Contact Me* or *make Friends* on these sites
-
-<a href="https://silencerichard.github.io/my-blog/">
-  <img height="20px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-</a>
-<a href="https://twitter.com/silenceRichard1">
-  <img height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
----
-#### :sparkles: My followers
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-<td align="center">
-              <a href="https://github.com/MemoForward">
-                <img src="https://avatars.githubusercontent.com/u/29476052?v=4" width="100px;" alt="MemoForward"/>
-                </a>
-              <br />
-             <a href="https://github.com/MemoForward">MemoForward</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/Antabot">
-                <img src="https://avatars.githubusercontent.com/u/37368613?v=4" width="100px;" alt="Antabot"/>
-                </a>
-              <br />
-             <a href="https://github.com/Antabot">Antabot</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/duyuanyuan1">
-                <img src="https://avatars.githubusercontent.com/u/37705416?v=4" width="100px;" alt="duyuanyuan1"/>
-                </a>
-              <br />
-             <a href="https://github.com/duyuanyuan1">duyuanyuan1</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/njusq">
-                <img src="https://avatars.githubusercontent.com/u/38641314?v=4" width="100px;" alt="njusq"/>
-                </a>
-              <br />
-             <a href="https://github.com/njusq">njusq</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/XAALJ">
-                <img src="https://avatars.githubusercontent.com/u/44630193?v=4" width="100px;" alt="XAALJ"/>
-                </a>
-              <br />
-             <a href="https://github.com/XAALJ">XAALJ</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/123maple321">
-                <img src="https://avatars.githubusercontent.com/u/48006362?v=4" width="100px;" alt="123maple321"/>
-                </a>
-              <br />
-             <a href="https://github.com/123maple321">123maple321</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/Ducky-Suki">
-                <img src="https://avatars.githubusercontent.com/u/49588549?v=4" width="100px;" alt="Ducky-Suki"/>
-                </a>
-              <br />
-             <a href="https://github.com/Ducky-Suki">Ducky-Suki</a>
-            </td>
-              </tr>
-  <tr>
-<td align="center">
-              <a href="https://github.com/luweifengCtoa">
-                <img src="https://avatars.githubusercontent.com/u/57134639?v=4" width="100px;" alt="luweifengCtoa"/>
-                </a>
-              <br />
-             <a href="https://github.com/luweifengCtoa">luweifengCtoa</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/lixiao555">
-                <img src="https://avatars.githubusercontent.com/u/64315478?v=4" width="100px;" alt="lixiao555"/>
-                </a>
-              <br />
-             <a href="https://github.com/lixiao555">lixiao555</a>
-            </td>
-            <td align="center">
-              <a href="https://github.com/waiting-life">
-                <img src="https://avatars.githubusercontent.com/u/70050556?v=4" width="100px;" alt="waiting-life"/>
-                </a>
-              <br />
-             <a href="https://github.com/waiting-life">waiting-life</a>
-            </td>
-              </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silencerichard&show_icons=true&locale=en" alt="silencerichard" /></p>
