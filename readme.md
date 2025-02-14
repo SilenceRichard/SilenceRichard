@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fangge Zhao</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate frontend developer from China, with 5 years frontend and 1 year web3 development expericed</h3>
 
 - 🤖️ I’m experienced in **Front-end and Web3 Development**
 
